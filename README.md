@@ -32,6 +32,7 @@ When we call the `add` function, the `logger` decorator will print the function 
 ## Reference
 - [Python Decorators](https://realpython.com/primer-on-python-decorators/)
 - [Python進階技巧 (3) — 神奇又美好的 Decorator ，嗷嗚！](https://medium.com/citycoddee/python%E9%80%B2%E9%9A%8E%E6%8A%80%E5%B7%A7-3-%E7%A5%9E%E5%A5%87%E5%8F%88%E7%BE%8E%E5%A5%BD%E7%9A%84-decorator-%E5%97%B7%E5%97%9A-6559edc87bc0)
-
+- [PLEASE Use These 5 Python Decorators](https://youtu.be/JgxCY-tbWHA?si=fPtm0s7cY3xkwNC-)
+- [Python Decorators: The Complete Guide](https://youtu.be/QH5fw9kxDQA?si=9f7Yd3miVs2ZrcSz)
 ## Conclusion
 Decorators are a powerful feature of Python that allows you to add functionality to existing functions without modifying them. By using decorators, you can keep your code clean and modular, making it easier to maintain and extend in the future.
